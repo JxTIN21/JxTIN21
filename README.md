@@ -13,7 +13,8 @@ Email Me 👉 ✉️ **jatinsrivastava4104@gmail.com** For Collaboration/Project
 - ⚡ **Fun fact:** I once built a 3D Netflix-style intro animation using React — just for fun!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ja.t.in_21/profilecard/?igsh=MWRjaTIydGh2c3Vi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jatin-srivastava-784223253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinsrivastava4104@gmail.com) [![Portfolio](https://unrivaled-frangollo-12da7c.netlify.app/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ja.t.in_21/profilecard/?igsh=MWRjaTIydGh2c3Vi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jatin-srivastava-784223253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinsrivastava4104@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+
 
 <!-- Snake Game Repo View -->
 
