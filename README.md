@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Jatin Srivastava
-**A passionate MERN Stack Developer || Android Developer || NLP & ML Enthusiast**
+**A passionate Software Developer || MERN Stack Developer || Android Developer || NLP & ML Enthusiast**
 
 Email Me 👉 ✉️ **jatinsrivastava4104@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
